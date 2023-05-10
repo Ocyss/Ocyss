@@ -69,7 +69,7 @@
 ### > 其他社区 other communities 🎃
 <div align="center"> 
 
-![](https://stats.justsong.cn/api/github?username=Ocyss&lang=zh-CN&theme=dark)![](https://stats.justsong.cn/api/leetcode?username=ocyss&cn=true&theme=dark&lang=zh-CN)
+![](https://stats.justsong.cn/api/github?username=Ocyss&lang=zh-CN&theme=dark)![](https://stats.justsong.cn/api/leetcode?username=Ocyss&cn=true&theme=dark&lang=zh-CN)
 
 ![](https://stats.justsong.cn/api/nowcoder?id=330396711&lang=zh-CN&theme=dark)![](https://stats.justsong.cn/api/bilibili/?id=327014906&theme=dark&lang=zh-CN)
 
