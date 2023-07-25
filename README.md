@@ -4,8 +4,8 @@
 > 名字由来：
 > Ocyss: 由 "Ocean" 和 "Cyberspace" 两个单词的部分组合而成，代表着对于数字世界和自由的热爱和掌控。
 
-- 想要了解更多，请关注我自己全栈开发的博客 [QiuBlog](https://xn--xe4a.cf/)
-- Read more about my [QiuBlog](https://xn--xe4a.cf/)
+- 想要了解更多，请关注我自己全栈开发的博客 [QiuBlog](https://ocyss.icu/)
+- Read more about my [QiuBlog](https://ocyss.icu/)
 
 ### > 我的技术栈 My Skill Set  🛠️
 <div align="center">  
