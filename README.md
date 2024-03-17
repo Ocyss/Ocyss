@@ -64,9 +64,12 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Ocyss/count.svg)
 
+### > 我的时间 My time ⌚
 
+![](https://wakatime.com/share/@Ocyss_04/5460e45e-49a3-487c-a0ae-af9ec0147d77.svg)
+![](https://wakatime.com/share/@Ocyss_04/a2b858d2-b453-476e-acff-dbc457904293.svg)
 
-### > 其他社区 other communities 🎃
+### > 我的其他社区 other communities 🎃
 <div align="center"> 
 
 ![](https://stats.justsong.cn/api/github?username=Ocyss&lang=zh-CN&theme=dark)![](https://stats.justsong.cn/api/leetcode?username=Ocyss&cn=true&theme=dark&lang=zh-CN)
