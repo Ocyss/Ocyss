@@ -75,12 +75,12 @@
 <img style="margin: 10px" src="https://wakatime.com/share/@Ocyss_04/a2b858d2-b453-476e-acff-dbc457904293.svg" alt="Kubernetes" width="70%" />
 </div>
 
-### > 我的其他社区 Other communities 🎃
+### > 我的数据 My Data 🎃
 
 <div align="center"> 
 
 ![](https://stats.justsong.cn/api/github?username=Ocyss&lang=zh-CN&theme=dark)![](https://stats.justsong.cn/api/leetcode?username=Ocyss&cn=true&theme=dark&lang=zh-CN)
 
-![](https://stats.justsong.cn/api/nowcoder?id=330396711&lang=zh-CN&theme=dark)![](https://stats.justsong.cn/api/bilibili/?id=327014906&theme=dark&lang=zh-CN)
+<!-- ![](https://stats.justsong.cn/api/juejin?id=3598045752595991&lang=zh-CN&theme=dark)![](https://stats.justsong.cn/api/bilibili/?id=327014906&theme=dark&lang=zh-CN) -->
 
 </div>
