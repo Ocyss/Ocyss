@@ -74,8 +74,8 @@
 
 ### > 我的时间 My time ⌚
 <div align="center"> 
-<img style="margin: 10px" src="https://wakatime.com/share/@Ocyss_04/5460e45e-49a3-487c-a0ae-af9ec0147d77.svg" alt="Kubernetes" width="70%" />
-<img style="margin: 10px" src="https://wakatime.com/share/@Ocyss_04/a2b858d2-b453-476e-acff-dbc457904293.svg" alt="Kubernetes" width="70%" />
+<img style="margin: 0px" src="https://wakatime.com/share/@Ocyss_04/5460e45e-49a3-487c-a0ae-af9ec0147d77.svg" width="49%" />
+<img style="margin: 0px" src="https://wakatime.com/share/@Ocyss_04/a2b858d2-b453-476e-acff-dbc457904293.svg" width="49%" />
 </div>
 
 ### > 我的数据 My Data 🎃
