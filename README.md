@@ -82,7 +82,8 @@
 
 <div align="center"> 
 
-![](https://stats.justsong.cn/api/github?username=Ocyss&lang=zh-CN&theme=dark)![](https://stats.justsong.cn/api/leetcode?username=Ocyss&cn=true&theme=dark&lang=zh-CN)
+<img style="margin: 0px" src="https://stats.justsong.cn/api/github?username=Ocyss&lang=zh-CN&theme=dark" width="49%" />
+<img style="margin: 0px" src="https://stats.justsong.cn/api/leetcode?username=Ocyss&cn=true&theme=dark&lang=zh-CN" width="49%" />
 
 <!-- ![](https://stats.justsong.cn/api/juejin?id=3598045752595991&lang=zh-CN&theme=dark)![](https://stats.justsong.cn/api/bilibili/?id=327014906&theme=dark&lang=zh-CN) -->
 
