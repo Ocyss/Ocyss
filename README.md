@@ -4,8 +4,10 @@
 
 
 生于04，一只普通且业余的 *编程爱好者*
-> 头像跟名字都由AI生成, "Ocyss"是由"Ocean"（海洋）和"Cyberspace"（网络空间）两个词的部分组合而成。它象征着对数字世界的自由和热爱。
+> Determined to pursue my ideals, I forge my path and mold my future, no matter how long the road.
 > 
+> 愿为理想执着行，前路漫漫自铸金。
+
 - 想要了解更多，请关注我自己全栈开发的博客 [QiuBlog](https://ocyss.icu/)
 - Read more about my [QiuBlog](https://ocyss.icu/)
 
