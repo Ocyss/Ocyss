@@ -20,6 +20,7 @@
 
 <div align="center">  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+<a href="https://www.solidjs.com/" target="_blank"><img style="margin: 10px" src="https://www.solidjs.cn/assets/logo-123b04bc.svg" alt="Solid.js" height="50" /></a>  
 <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="Vite.js" height="50" /></a>  
 <a href="https://nuxt.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" alt="Nuxt.js" height="50" /></a>  
 <a href="https://element-plus.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/element-ui-1.svg" alt="element-ui" height="50" /></a>  
