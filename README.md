@@ -79,10 +79,14 @@
 ![Visitor Count](https://profile-counter.glitch.me/Ocyss/count.svg)
 
 ### > 我的时间 My time ⌚
-<div align="center"> 
+
+<!-- <div align="center"> 
 <img style="margin: 0px" src="https://wakatime.com/share/@Ocyss_04/5460e45e-49a3-487c-a0ae-af9ec0147d77.svg" width="49%" />
 <img style="margin: 0px" src="https://wakatime.com/share/@Ocyss_04/a2b858d2-b453-476e-acff-dbc457904293.svg" width="49%" />
-</div>
+</div> -->
+
+ <!-- waka-box start -->
+ <!-- waka-box end -->
 
 ### > 我的数据 My Data 🎃
 
