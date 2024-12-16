@@ -80,22 +80,7 @@
 
 ### > 我的时间 My time ⌚
 
-<!-- <div align="center"> 
-<img style="margin: 0px" src="https://wakatime.com/share/@Ocyss_04/5460e45e-49a3-487c-a0ae-af9ec0147d77.svg" width="49%" />
-<img style="margin: 0px" src="https://wakatime.com/share/@Ocyss_04/a2b858d2-b453-476e-acff-dbc457904293.svg" width="49%" />
-</div> -->
-
- <!-- waka-box start -->
-📊 Weekly development breakdown
-```text
-Vue.js     🕓 27 hrs 1 min  ████████████████░░░░░ 76.4%
-TypeScript 🕓 4 hrs 49 mins ██▊░░░░░░░░░░░░░░░░░░ 13.6%
-CSS        🕓 1 hr 44 mins  █░░░░░░░░░░░░░░░░░░░░  4.9%
-Markdown   🕓 29 mins       ▎░░░░░░░░░░░░░░░░░░░░  1.4%
-JSON       🕓 23 mins       ▏░░░░░░░░░░░░░░░░░░░░  1.1%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
-<!-- waka-box end -->
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Ocyss_04&api_domain=wakapi.vip.ocyss.icu&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Month%20Stats&layout=compact&langs_count=50)
 
 ### > 我的数据 My Data 🎃
 
