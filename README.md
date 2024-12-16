@@ -78,22 +78,52 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Ocyss/count.svg)
 
-### > 我的时间 My time ⌚
+### > 我的数据 My Data 🎃
 
 <div align="center"> 
 
+<picture>
+  <source
+    height=240
+    srcset="https://stats.justsong.cn/api/github?username=Ocyss&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    height=240
+    srcset="https://stats.justsong.cn/api/github?username=Ocyss&theme=onedark"
+    media="(prefers-color-scheme: dark)"
+  />
+    <img src="https://stats.justsong.cn/api/github?username=Ocyss" />
+  </picture>
+
+  <picture>
+  <source
+    height=240
+    srcset="https://stats.justsong.cn/api/leetcode?username=Ocyss&cn=true&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    height=240
+    srcset="https://stats.justsong.cn/api/leetcode?username=Ocyss&cn=true&theme=onedark"
+    media="(prefers-color-scheme: dark)"
+  />
+    <img src="https://stats.justsong.cn/api/leetcode?username=Ocyss&cn=true" />
+  </picture>
+</div>
+
+<div align="center"> 
   <picture>
   <source
     height=340 align="center"
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Ocyss_04&api_domain=wakapi.vip.ocyss.icu&custom_title=Wakapi%20Month%20Stats&layout=compact&langs_count=50&theme=default"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Ocyss_04&api_domain=wakapi.vip.ocyss.icu&custom_title=Wakapi%20Month%20Stats&layout=compact&langs_count=50&hide_border=true&bg_color=00000000&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <source
     height=340 align="center"
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Ocyss_04&api_domain=wakapi.vip.ocyss.icu&custom_title=Wakapi%20Month%20Stats&layout=compact&langs_count=50&theme=onedark"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Ocyss_04&api_domain=wakapi.vip.ocyss.icu&custom_title=Wakapi%20Month%20Stats&layout=compact&langs_count=50&hide_border=true&theme=onedark"
     media="(prefers-color-scheme: dark)"
   />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ocyss_04&api_domain=wakapi.vip.ocyss.icu&custom_title=Wakapi%20Month%20Stats&layout=compact&langs_count=50" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ocyss_04&api_domain=wakapi.vip.ocyss.icu&custom_title=Wakapi%20Month%20Stats&layout=compact&langs_count=50&hide_border=true&bg_color=00000000" />
   </picture>
   
 <picture>
@@ -104,20 +134,9 @@
   />
   <source
     height=340 align="center"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ocyss&layout=compact&langs_count=20&card_width=320&hide=GLSL&hide_border=true&bg_color=00000000&theme=onedark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ocyss&layout=compact&langs_count=20&card_width=320&hide=GLSL&hide_border=true&theme=onedark"
     media="(prefers-color-scheme: dark)"
   />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ocyss&layout=compact&langs_count=20&card_width=320&hide=GLSL&hide_border=true&bg_color=00000000" />
   </picture>
-</div>
-
-### > 我的数据 My Data 🎃
-
-<div align="center"> 
-
-<img style="margin: 0px" src="https://stats.justsong.cn/api/github?username=Ocyss&theme=dark" width="49%" />
-<img style="margin: 0px" src="https://stats.justsong.cn/api/leetcode?username=Ocyss&cn=true&theme=dark" width="49%" />
-
-<!-- ![](https://stats.justsong.cn/api/juejin?id=3598045752595991&lang=zh-CN&theme=dark)![](https://stats.justsong.cn/api/bilibili/?id=327014906&theme=dark&lang=zh-CN) -->
-
 </div>
