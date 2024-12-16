@@ -84,12 +84,12 @@
 
 <picture>
   <source
-    height=240
+    height=220
     srcset="https://stats.justsong.cn/api/github?username=Ocyss&theme=light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <source
-    height=240
+    height=220
     srcset="https://stats.justsong.cn/api/github?username=Ocyss&theme=onedark"
     media="(prefers-color-scheme: dark)"
   />
@@ -98,12 +98,12 @@
 
   <picture>
   <source
-    height=240
+    height=220
     srcset="https://stats.justsong.cn/api/leetcode?username=Ocyss&cn=true&theme=light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <source
-    height=240
+    height=220
     srcset="https://stats.justsong.cn/api/leetcode?username=Ocyss&cn=true&theme=onedark"
     media="(prefers-color-scheme: dark)"
   />
@@ -114,12 +114,12 @@
 <div align="center"> 
   <picture>
   <source
-    height=340 align="center"
+    height=280 align="center"
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Ocyss_04&api_domain=wakapi.vip.ocyss.icu&custom_title=Wakapi%20Month%20Stats&layout=compact&langs_count=50&bg_color=00000000&border_color=00000050&border_radius=8&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <source
-    height=340 align="center"
+    height=280 align="center"
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Ocyss_04&api_domain=wakapi.vip.ocyss.icu&custom_title=Wakapi%20Month%20Stats&layout=compact&langs_count=50&hide_border=true&border_radius=8&theme=onedark"
     media="(prefers-color-scheme: dark)"
   />
@@ -128,12 +128,12 @@
   
 <picture>
   <source
-    height=340 align="center"
+    height=280 align="center"
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ocyss&layout=compact&langs_count=20&card_width=320&hide=GLSL&border_color=00000050&bg_color=00000000&border_radius=8&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <source
-    height=340 align="center"
+    height=280 align="center"
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ocyss&layout=compact&langs_count=20&card_width=320&hide=GLSL&hide_border=true&border_radius=8&theme=onedark"
     media="(prefers-color-scheme: dark)"
   />
