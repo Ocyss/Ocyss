@@ -80,14 +80,43 @@
 
 ### > 我的时间 My time ⌚
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Ocyss_04&api_domain=wakapi.vip.ocyss.icu&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Month%20Stats&layout=compact&langs_count=50)
+<div align="center"> 
+
+  <picture>
+  <source
+    height=340 align="center"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Ocyss_04&api_domain=wakapi.vip.ocyss.icu&custom_title=Wakapi%20Month%20Stats&layout=compact&langs_count=50&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    height=340 align="center"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Ocyss_04&api_domain=wakapi.vip.ocyss.icu&custom_title=Wakapi%20Month%20Stats&layout=compact&langs_count=50&theme=onedark"
+    media="(prefers-color-scheme: dark)"
+  />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ocyss_04&api_domain=wakapi.vip.ocyss.icu&custom_title=Wakapi%20Month%20Stats&layout=compact&langs_count=50" />
+  </picture>
+  
+<picture>
+  <source
+    height=340 align="center"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ocyss&layout=compact&langs_count=20&card_width=320&hide=GLSL&hide_border=true&bg_color=00000000&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    height=340 align="center"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ocyss&layout=compact&langs_count=20&card_width=320&hide=GLSL&hide_border=true&bg_color=00000000&theme=onedark"
+    media="(prefers-color-scheme: dark)"
+  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ocyss&layout=compact&langs_count=20&card_width=320&hide=GLSL&hide_border=true&bg_color=00000000" />
+  </picture>
+</div>
 
 ### > 我的数据 My Data 🎃
 
 <div align="center"> 
 
-<img style="margin: 0px" src="https://stats.justsong.cn/api/github?username=Ocyss&lang=zh-CN&theme=dark" width="49%" />
-<img style="margin: 0px" src="https://stats.justsong.cn/api/leetcode?username=Ocyss&cn=true&theme=dark&lang=zh-CN" width="49%" />
+<img style="margin: 0px" src="https://stats.justsong.cn/api/github?username=Ocyss&theme=dark" width="49%" />
+<img style="margin: 0px" src="https://stats.justsong.cn/api/leetcode?username=Ocyss&cn=true&theme=dark" width="49%" />
 
 <!-- ![](https://stats.justsong.cn/api/juejin?id=3598045752595991&lang=zh-CN&theme=dark)![](https://stats.justsong.cn/api/bilibili/?id=327014906&theme=dark&lang=zh-CN) -->
 
