@@ -9,8 +9,8 @@
 > 
 > 愿为理想执着行，前路漫漫自铸金。
 
-- 想要了解更多，请关注我自己全栈开发的博客 [QiuBlog](https://ocyss.icu/)
-- Read more about my [QiuBlog](https://ocyss.icu/)
+- 想要了解更多，请关注我自己全栈开发的博客 [QBlog](https://ocyss.icu/)
+- Read more about my [QBlog](https://ocyss.icu/)
 
 ### > 我的技术栈 My Skill Set  🛠️
 <div align="center">  
